@@ -268,7 +268,10 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: # enables year, tag and category archives (remove if you need to disable one of them).
+    - year
+    - tag
+    - category
   layouts:
     year: archive-year
     tag: archive-tag
