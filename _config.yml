@@ -268,18 +268,17 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: # enables year, tag and category archives (remove if you need to disable one of them).
-    - year
-    - tag
-    - category
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: "/blog/:year/"
-    tag: "/blog/tag/:name/"
-    category: "/blog/category/:name/"
+  enabled: true
+  collections: 
+    year:
+      path: "/blog/:year/"
+      layout: "archive-year"
+    tags:
+      path: "/blog/tag/:name/" 
+      layout: "archive-tag"
+    categories:
+      path: "/blog/category/:name/"
+      layout: "archive-category" 
 
 display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
 display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
