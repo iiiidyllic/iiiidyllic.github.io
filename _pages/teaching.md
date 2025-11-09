@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Summary of my academic and professional services.
 nav: false
 nav_order: 6
