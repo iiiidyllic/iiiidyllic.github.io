@@ -1,20 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle:
-
+subtitle: 
 profile:
   align: right
-  image: bio.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: 
-
-news: true # include a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+  image: bio.jpeg
+  image_circular: false
+  more_info:
+news: true
+selected_papers: true
+social: true
 ---
-<div class="about-content" markdown="1">
 
 I am currently a **PhD student** at [CUHK-Shenzhen](https://cuhk.edu.cn/en/), supervised by [Prof. Feng Yin](https://sse.cuhk.edu.cn/en/faculty/yinfeng). Prior to my PhD, I obtained my BEng degree in Intelligent Manufacturing from [Tongji University](https://en.tongji.edu.cn/p/#/).
 
@@ -25,4 +22,3 @@ I aim to develop unified frameworks for intelligence that can autonomously learn
 - **Representative learning** for abstraction, transfer, and open-ended generalization across diverse tasks.
 
 If you are interested in collaborating or discussing research ideas, feel free to reach out via [my email](zihaoliu1@link.cuhk.edu.cn).
-</div>
