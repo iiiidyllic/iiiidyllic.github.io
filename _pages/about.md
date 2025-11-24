@@ -30,7 +30,7 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Invited as a peer reviewer for ICASSP 2026!
 - *2025.08*: &nbsp;🎉🎉 Join the BLSP Group and become a member of it!
-- *2022 \& 2023 \& 2024*: &nbsp;🎉🎉 Repeatedly awarded "Outstanding Student Scholarship" by Tongji University.
+- *2022 & 2023 & 2024*: &nbsp;🎉🎉 Repeatedly awarded "Outstanding Student Scholarship" by Tongji University.
 - *2024.05*: &nbsp;🎉🎉 Won the title of "Honarable Mention" in "Mathematical Contest in Modeling".
 - *2023.10*: &nbsp;🎉🎉 Won the 1st prize in the "Chinese Mechanical Engineering Innovation and Creativity Competition".
 - *2022.12*: &nbsp;🎉🎉 Won the 2nd prize in the "Shanghai College Student Engineering Practice and Innovation Ability Competition".
@@ -53,7 +53,7 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 
 # 🎖 Honors and Awards
 - *2023.10* Won the 1st prize in the "Chinese Mechanical Engineering Innovation and Creativity Competition".
-- *2022 \& 2023 \& 2024* Repeatedly awarded "Outstanding Student Scholarship" by Tongji University. 
+- *2022 & 2023 & 2024* Repeatedly awarded "Outstanding Student Scholarship" by Tongji University. 
 
 # 📖 Educations
 - *2025.08 - 2025.11 (now)*, Ph.D. in Artificial Intelligence ar Chinese University of Hong Kong, Shenzhen. 
