@@ -17,20 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Zihao Liu (Chinese name: 刘子豪), you can call me "Leo". I am currently a Ph.D. student at School of Artificial Intelligence, CUHK-Shenzhen under the supervision of Prof. Feng Yin. I previously received my B.Eng. degree at School of Mechanical Engineering, Tongji University (2021.09-2025.07).
+Hi there, I am Zihao Liu (Chinese name: 刘子豪), you can call me "Edward". I am currently a Ph.D. student at School of Artificial Intelligence, CUHK-Shenzhen under the supervision of Prof. Feng Yin. I previously received my B.Eng. degree at School of Mechanical Engineering, Tongji University (2021.09-2025.07).
 
-My research interests center on building intelligent data analytical systems boosted by large models combined with insighting learning algorithms. Specifically, I focus on:
+My research interests center on building intelligent data analytical systems boosted by large models combined with cutting-edge learning algorithms. Specifically, I focus on:
 - Large language models' interpretibility and application as a base model for time series analysis.
-- Bayesian Learning to optimize machine learning from probabilistic perspective.
-- Spatial-temporal modeling to jointly model data distribution in spatial and temporal domain.
+- Bayesian machine learning to optimize learning algorithms from probabilistic perspective.
+- Spatio-temporal modeling to jointly model data distribution in spatial and temporal domain.
 
 My research aims to explore efficient and universal data representative methods utilizing machine and deep learning as analytic tools.
 I am always open to collaborations. Please feel free to reach out to me at [my email](zihaoliu1@link.cuhk.edu.cn)!
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Invited as a peer reviewer for ICASSP 2026!
-- *2025.08*: &nbsp;🎉🎉 Join the BLSP Group as a member!
-- *2022 & 2023 & 2024*: &nbsp;🎉🎉 Repeatedly awarded "Outstanding Student Scholarship" by Tongji University.
+- *2025.08*: &nbsp;🎉🎉 Join the BLSP Group and become a member of it!
+- *2022 \& 2023 \& 2024*: &nbsp;🎉🎉 Repeatedly awarded "Outstanding Student Scholarship" by Tongji University.
 - *2024.05*: &nbsp;🎉🎉 Won the title of "Honarable Mention" in "Mathematical Contest in Modeling".
 - *2023.10*: &nbsp;🎉🎉 Won the 1st prize in the "Chinese Mechanical Engineering Innovation and Creativity Competition".
 - *2022.12*: &nbsp;🎉🎉 Won the 2nd prize in the "Shanghai College Student Engineering Practice and Innovation Ability Competition".
@@ -53,15 +53,14 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 
 # 🎖 Honors and Awards
 - *2023.10* Won the 1st prize in the "Chinese Mechanical Engineering Innovation and Creativity Competition".
-- *2022 & 2023 & 2024* Repeatedly awarded "Outstanding Student Scholarship" by Tongji University. 
+- *2022 \& 2023 \& 2024* Repeatedly awarded "Outstanding Student Scholarship" by Tongji University. 
 
 # 📖 Educations
 - *2025.08 - 2025.11 (now)*, Ph.D. in Artificial Intelligence ar Chinese University of Hong Kong, Shenzhen. 
 - *2021.09 - 2025.07*, B.Eng. in Intelligent Manufacturing Engineering, Tongji University, Shanghai. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Teaching
+- *2025.09-2025.11 (now)*, Serve as a teaching assistant for MAT1001, Calculus I.
 
 # 💻 Internships
 - *2024.08 - 2025.05*, Full-time strategic intern as a machine learning engineer in Asia-Pacific Corporate Research, Bosch (China) Investment Ltd., Shanghai.
