@@ -59,7 +59,7 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 - *2025.08 - 2025.11 (now)*, Ph.D. in Artificial Intelligence ar Chinese University of Hong Kong, Shenzhen. 
 - *2021.09 - 2025.07*, B.Eng. in Intelligent Manufacturing Engineering, Tongji University, Shanghai. 
 
-# 💬 Teaching
+# 💬 Invited Talks
 - *2025.09-2025.11 (now)*, Serve as a teaching assistant for MAT1001, Calculus I.
 
 # 💻 Internships
