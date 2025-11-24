@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zihao Liu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/Avatar.jpg"
   bio              : "School of Artificial Intelligence, Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
   employer         :
