@@ -17,14 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi there, I am Zihao Liu (Chinese name: 刘子豪), you can call me "Leo". I am currently a Ph.D. student at School of Artificial Intelligence, CUHK-Shenzhen under the supervision of Prof. Feng Yin. I previously received my B.Eng. degree at School of Mechanical Engineering, Tongji University (2021.09-2025.07).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interests center on building intelligent data analytical systems boosted by large models combined with insighting learning algorithms. Specifically, I focus on:
+- Large language models' interpretibility and application as a base model for time series analysis.
+- Bayesian Learning to optimize machine learning from probabilistic perspective.
+- Spatial-temporal modeling to jointly model data distribution in spatial and temporal domain.
+My research aims to explore efficient and universal data representative methods utilizing machine and deep learning as analytic tools.
+I am always open to collaborations. Please feel free to reach out to me at [my email](zihaoliu1@link.cuhk.edu.cn)!
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 Invited as a peer reviewer for ICASSP 2026!
+- *2025.08*: &nbsp;🎉🎉 Join the BLSP Group as a member!
+- *2022 & 2023 & 2024*: &nbsp;🎉🎉 Repeatedly awarded "Outstanding Student Scholarship" by Tongji University.
+- *2024.05*: &nbsp;🎉🎉 Won the title of "Honarable Mention" in "Mathematical Contest in Modeling".
+- *2023.10*: &nbsp;🎉🎉 Won the 1st prize in the "Chinese Mechanical Engineering Innovation and Creativity Competition".
+- *2022.12*: &nbsp;🎉🎉 Won the 2nd prize in the "Shanghai College Student Engineering Practice and Innovation Ability Competition".
 
 # 📝 Publications 
 
@@ -43,16 +51,16 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Won the 1st prize in the "Chinese Mechanical Engineering Innovation and Creativity Competition".
+- *2022 & 2023 & 2024* Repeatedly awarded "Outstanding Student Scholarship" by Tongji University. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08 - 2025.11 (now)*, Ph.D. in Artificial Intelligence ar Chinese University of Hong Kong, Shenzhen. 
+- *2021.09 - 2025.07*, B.Eng. in Intelligent Manufacturing Engineering, Tongji University, Shanghai. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.08 - 2025.05*, Full-time strategic intern as a machine learning engineer in Asia-Pacific Corporate Research, Bosch (China) Investment Ltd., Shanghai.
