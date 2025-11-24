@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Zihao Liu (Chinese name: 刘子豪), you can call me "Edward". I am currently a Ph.D. student at School of Artificial Intelligence, CUHK-Shenzhen under the supervision of Prof. Feng Yin. I previously received my B.Eng. degree at School of Mechanical Engineering, Tongji University (2021.09-2025.07).
+Hi there, I am **Zihao Liu** (Chinese name: 刘子豪), you can call me "Edward". I am currently a Ph.D. student at School of Artificial Intelligence, CUHK-Shenzhen under the supervision of Prof. Feng Yin. I previously received my B.Eng. degree at School of Mechanical Engineering, Tongji University (2021.09-2025.07).
 
 My research interests center on building intelligent data analytical systems boosted by large models combined with cutting-edge learning algorithms. Specifically, I focus on:
 - Large language models' interpretibility and application as a base model for time series analysis.
@@ -28,12 +28,11 @@ My research aims to explore efficient and universal data representative methods 
 I am always open to collaborations. Please feel free to reach out to me at [my email](zihaoliu1@link.cuhk.edu.cn)!
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Invited as a peer reviewer for ICASSP 2026!
-- *2025.08*: &nbsp;🎉🎉 Join the BLSP Group and become a member of it!
-- *2022 & 2023 & 2024*: &nbsp;🎉🎉 Repeatedly awarded "Outstanding Student Scholarship" by Tongji University.
-- *2024.05*: &nbsp;🎉🎉 Won the title of "Honarable Mention" in "Mathematical Contest in Modeling".
-- *2023.10*: &nbsp;🎉🎉 Won the 1st prize in the "Chinese Mechanical Engineering Innovation and Creativity Competition".
-- *2022.12*: &nbsp;🎉🎉 Won the 2nd prize in the "Shanghai College Student Engineering Practice and Innovation Ability Competition".
+- *2025.11*: &nbsp;🎉 Invited as a peer reviewer for ICASSP 2026!
+- *2025.08*: &nbsp;🎉 Join the [BLSP Group](https://blsp-group.github.io/) and become a member of it!
+- *2024.05*: &nbsp;🎉 Won the title of "Honarable Mention" in "Mathematical Contest in Modeling".
+- *2023.10*: &nbsp;🎉 Won the **1st** prize in the "Chinese Mechanical Engineering Innovation and Creativity Competition".
+- *2022.12*: &nbsp;🎉 Won the **2nd** prize in the "Shanghai College Student Engineering Practice and Innovation Ability Competition".
 
 # 📝 Publications 
 
@@ -52,15 +51,16 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023.10* Won the 1st prize in the "Chinese Mechanical Engineering Innovation and Creativity Competition".
-- *2022 & 2023 & 2024* Repeatedly awarded "Outstanding Student Scholarship" by Tongji University. 
+- *2022 & 2023 & 2024*: &nbsp;💰 Repeatedly awarded "Outstanding Student Scholarship" by Tongji University. 
+- *2023.10*: &nbsp;🏆 Won the **1st** prize in the "Chinese Mechanical Engineering Innovation and Creativity Competition".
+- *2023.09*: &nbsp;🏆 Received the "Integrated Competence" certificate awarded by TÜV Rheinland Industry 4.0 Laboratory Center-China.
 
 # 📖 Educations
-- *2025.08 - 2025.11 (now)*, Ph.D. in Artificial Intelligence ar Chinese University of Hong Kong, Shenzhen. 
+- *2025.08 - 2025.11 (now)*, Ph.D. in Artificial Intelligence at Chinese University of Hong Kong, Shenzhen. 
 - *2021.09 - 2025.07*, B.Eng. in Intelligent Manufacturing Engineering, Tongji University, Shanghai. 
 
 # 💬 Invited Talks
-- *2025.09-2025.11 (now)*, Serve as a teaching assistant for MAT1001, Calculus I.
+- *2025.09-2025.11 (now)*, Serve as a teaching assistant for [MAT1001, Calculus I](https://www.cuhk.edu.cn/en/course/8025).
 
 # 💻 Internships
-- *2024.08 - 2025.05*, Full-time strategic intern as a machine learning engineer in Asia-Pacific Corporate Research, Bosch (China) Investment Ltd., Shanghai.
+- *2024.08 - 2025.05*, Full-time strategic intern as a machine learning engineer in [Bosch Corporate Research Asia Pacific](https://www.bosch.com/research/about-bosch-research/research-locations/), Bosch (China) Investment Ltd., Shanghai.
