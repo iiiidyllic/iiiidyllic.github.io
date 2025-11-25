@@ -66,54 +66,24 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 - *2024.08 - 2025.05*, Full-time strategic intern as a machine learning engineer in [Bosch Corporate Research Asia Pacific](https://www.bosch.com/research/about-bosch-research/research-locations/), Bosch (China) Investment Ltd., Shanghai.
 
 # 🌍 Visitor Map
-<!-- ===== Visitor Statistics Section ===== -->
-<div style="text-align:center; margin-top:40px; margin-bottom:40px;">
-
-  <!-- Section Title -->
-  <h2 style="font-size:22px; font-weight:600; margin-bottom:12px;">🌍 Visitor Statistics</h2>
-
-  <!-- Pageviews Counter -->
-  <div style="font-size:16px; font-weight:bold; margin-bottom:10px;">
-    <script type="text/javascript" 
-            src="https://mapmyvisitors.com/counter.js?d=PUCXUJ9M6q4ZWN_Z-IXMeP7TtfQWchclhG0uvvCDq9E&v=1">
-    </script>
-  </div>
-
-  <!-- Visitor Map -->
-  <div style="width:300px; height:300px; margin:auto;">
-    <script type='text/javascript' id='mapmyvisitors'
-            src='https://mapmyvisitors.com/map.js?cl=080808&w=300&t=n&d=PUCXUJ9M6q4ZWN_Z-IXMeP7TtfQWchclhG0uvvCDq9E&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'>
-    </script>
-  </div>
-
+<!-- Pageviews Counter -->
+<div style="text-align:center; font-size:15px; font-weight:600; margin-bottom:10px;">
+  <script type="text/javascript"
+          src="https://mapmyvisitors.com/counter.js?d=PUCXUJ9M6q4ZWN_Z-IXMeP7TtfQWchclhG0uvvCDq9E&v=1">
+  </script>
 </div>
 
-<style>
-.footer-logos {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 28px;  /* 调整图标间距 */
-    margin-top: 20px;
-    margin-bottom: 40px;
-}
+<!-- Visitor Map (Centered) -->
+<div style="width:420px; margin:auto;">
+  <script type='text/javascript' id='mapmyvisitors'
+          src='https://mapmyvisitors.com/map.js?cl=080808&w=420&t=n&d=PUCXUJ9M6q4ZWN_Z-IXMeP7TtfQWchclhG0uvvCDq9E&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'>
+  </script>
+</div>
 
-.footer-logos img {
-    height: 55px;   /* 统一 logo 高度 */
-    width: auto;    /* 保持比例 */
-    object-fit: contain;
-    opacity: 0.95;  /* 略微柔和 */
-    transition: opacity 0.2s;
-}
-
-.footer-logos img:hover {
-    opacity: 1;
-}
-</style>
-
-<div class="footer-logos">
-    <img src="images/cuhksz_logo.png" alt="CUHKSZ Logo">
-    <img src="images/CUHK-SAI-Logo-02.png" alt="SAI Logo">
-    <img src="images/tongji_logo.png" alt="Tongji Logo">
-    <img src="images/Bosch_logo.png" alt="Bosch Logo">
+<!-- Logos Section -->
+<div style="text-align:center; margin-top:20px; margin-bottom:40px;">
+  <img src="images/cuhksz_logo.png" alt="CUHKSZ" height="55" style="margin:0 12px;">
+  <img src="images/CUHK-SAI-Logo-02.png" alt="SAI" height="55" style="margin:0 12px;">
+  <img src="images/tongji_logo.png" alt="Tongji" height="55" style="margin:0 12px;">
+  <img src="images/Bosch_logo.png" alt="Bosch" height="55" style="margin:0 12px;">
 </div>
