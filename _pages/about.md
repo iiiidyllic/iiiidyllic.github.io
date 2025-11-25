@@ -92,9 +92,9 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 
 /* 统一视觉高度并限制单个图片最大占用宽度 */
 .footer-logos img {
-  height: 64px;         /* 统一高度（你可改成 45 / 48 / 60） */
+  height: 80px;         /* 统一高度（你可改成 45 / 48 / 60） */
   width: auto; 
-  max-width: 180px;     /* 对极宽图（比如 Bosch）生效，防止撑破布局 */
+  max-width: 240px;     /* 对极宽图（比如 Bosch）生效，防止撑破布局 */
   object-fit: contain;
   display: inline-block;
   vertical-align: middle;
