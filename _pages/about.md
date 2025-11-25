@@ -77,8 +77,8 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 </div>
 
 <div align="center">
-  <img src="/assets/images/cuhksz_logo.png" alt="University 1 Logo" height="60">
-  <img src="/assets/images/CUHK-SAI-Logo-02.png" alt="Institute Logo" height="60">
-  <img src="/assets/images/tongji_logo.png" alt="University 2 Logo" height="60">
-  <img src="/assets/images/Bosch_logo.png" alt="Company Logo" height="60">
+  <img src="images/cuhksz_logo.png" alt="University 1 Logo" height="60">
+  <img src="images/CUHK-SAI-Logo-02.png" alt="Institute Logo" height="60">
+  <img src="images/tongji_logo.png" alt="University 2 Logo" height="60">
+  <img src="images/Bosch_logo.png" alt="Company Logo" height="60">
 </div>
