@@ -66,7 +66,15 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 - *2024.08 - 2025.05*, Full-time strategic intern as a machine learning engineer in [Bosch Corporate Research Asia Pacific](https://www.bosch.com/research/about-bosch-research/research-locations/), Bosch (China) Investment Ltd., Shanghai.
 
 # 🌍 Visitor Map
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=a&t=n&d=PUCXUJ9M6q4ZWN_Z-IXMeP7TtfQWchclhG0uvvCDq9E&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<div id="visitor-counter" style="text-align:center; font-size:16px; font-weight:bold; margin-bottom:10px;">
+  <script type="text/javascript" src="https://mapmyvisitors.com/counter.js?d=PUCXUJ9M6q4ZWN_Z-IXMeP7TtfQWchclhG0uvvCDq9E&v=1"></script>
+</div>
+
+<div style="width:260px; height:260px; margin:auto;">
+  <script type='text/javascript' id='mapmyvisitors'
+          src='https://mapmyvisitors.com/map.js?cl=080808&w=260&t=n&d=PUCXUJ9M6q4ZWN_Z-IXMeP7TtfQWchclhG0uvvCDq9E&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'>
+  </script>
+</div>
 
 <div align="center">
   <img src="/assets/images/cuhksz_logo.png" alt="University 1 Logo" height="60">
