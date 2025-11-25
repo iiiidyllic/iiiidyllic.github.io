@@ -67,11 +67,9 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 
 # 🌍 Visitor Map
 <!-- Pageviews Counter -->
-<div style="text-align:center; font-size:15px; font-weight:600; margin-bottom:10px;">
-  <script type="text/javascript"
-          src="https://mapmyvisitors.com/counter.js?d=PUCXUJ9M6q4ZWN_Z-IXMeP7TtfQWchclhG0uvvCDq9E&v=1">
-  </script>
-</div>
+<script type="text/javascript"
+        src="https://mapmyvisitors.com/counter.js?d=PUCXUJ9M6q4ZWN_Z-IXMeP7TtfQWchclhG0uvvCDq9E&v=1">
+</script>
 
 <!-- Visitor Map (Centered) -->
 <div style="width:420px; margin:auto;">
@@ -81,9 +79,9 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 </div>
 
 <!-- Logos Section -->
-<div style="text-align:center; margin-top:20px; margin-bottom:40px;">
-  <img src="images/cuhksz_logo.png" alt="CUHKSZ" height="55" style="margin:0 12px;">
-  <img src="images/CUHK-SAI-Logo-02.png" alt="SAI" height="55" style="margin:0 12px;">
-  <img src="images/tongji_logo.png" alt="Tongji" height="55" style="margin:0 12px;">
-  <img src="images/Bosch_logo.png" alt="Bosch" height="55" style="margin:0 12px;">
+<div style="text-align:center; margin-top:10px; margin-bottom:40px;">
+  <img src="images/cuhksz_logo.png" alt="CUHKSZ" height="48" style="margin:10px 15px;">
+  <img src="images/CUHK-SAI-Logo-02.png" alt="SAI" height="48" style="margin:10px 15px;">
+  <img src="images/tongji_logo.png" alt="Tongji" height="48" style="margin:10px 15px;">
+  <img src="images/Bosch_logo.png" alt="Bosch" height="48" style="margin:10px 15px;">
 </div>
