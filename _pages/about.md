@@ -50,7 +50,7 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖🎖️ Honors and Awards
+# 🎖️ Honors and Awards
 - *2022 & 2023 & 2024*: &nbsp;💰 Repeatedly awarded "Outstanding Student Scholarship" by Tongji University. 
 - *2023.10*: &nbsp;🏆 Won the **1st** prize in the "Chinese Mechanical Engineering Innovation and Creativity Competition".
 - *2023.09*: &nbsp;🏆 Received the "Integrated Competence" certificate awarded by TÜV Rheinland Industry 4.0 Laboratory Center-China.
@@ -59,7 +59,7 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 - *2025.08 - Present*, Ph.D. in Artificial Intelligence at Chinese University of Hong Kong, Shenzhen. 
 - *2021.09 - 2025.07*, B.Eng. in Intelligent Manufacturing Engineering, Tongji University, Shanghai. 
 
-# 💬💼 Services
+# 💼 Services
 - *2025.09 - Present*, Serve as a teaching assistant for [MAT1001, Calculus I](https://www.cuhk.edu.cn/en/course/8025).
 
 # 💻 Internships
