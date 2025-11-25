@@ -79,9 +79,38 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 </div>
 
 <!-- Logos Section -->
-<div style="text-align:center; margin-top:10px; margin-bottom:40px;">
-  <img src="images/cuhksz_logo.png" alt="CUHKSZ" height="48" style="margin:10px 15px;">
-  <img src="images/CUHK-SAI-Logo-02.png" alt="SAI" height="48" style="margin:10px 15px;">
-  <img src="images/tongji_logo.png" alt="Tongji" height="48" style="margin:10px 15px;">
-  <img src="images/Bosch_logo.png" alt="Bosch" height="48" style="margin:10px 15px;">
+<style>
+.footer-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 28px;            /* 间距，按需调整 */
+  margin-top: 14px;
+  margin-bottom: 40px;
+  flex-wrap: nowrap;    /* 强制一行显示；若要响应式换行改成: wrap */
+}
+
+/* 统一视觉高度并限制单个图片最大占用宽度 */
+.footer-logos img {
+  height: 56px;         /* 统一高度（你可改成 45 / 48 / 60） */
+  width: auto; 
+  max-width: 180px;     /* 对极宽图（比如 Bosch）生效，防止撑破布局 */
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
+  transition: transform .15s ease, opacity .15s ease;
+  opacity: 0.98;
+}
+
+.footer-logos img:hover {
+  transform: translateY(-4px);
+  opacity: 1;
+}
+</style>
+
+<div class="footer-logos" aria-label="Affiliated logos">
+  <img src="{{ site.baseurl }}/images/cuhksz_logo.png" alt="CUHKSZ Logo">
+  <img src="{{ site.baseurl }}/images/CUHK-SAI-Logo-02.png" alt="SAI Logo">
+  <img src="{{ site.baseurl }}/images/tongji_logo.png" alt="Tongji Logo">
+  <img src="{{ site.baseurl }}/images/Bosch_logo.png" alt="Bosch Logo">
 </div>
