@@ -67,3 +67,10 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 
 # 🌍 Visitor Map
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=a&t=n&d=PUCXUJ9M6q4ZWN_Z-IXMeP7TtfQWchclhG0uvvCDq9E&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+
+<div align="center">
+  <img src="/assets/images/cuhksz_logo.png" alt="University 1 Logo" height="60">
+  <img src="/assets/images/CUHK-SAI-Logo-02.png" alt="Institute Logo" height="60">
+  <img src="/assets/images/tongji_logo.png" alt="University 2 Logo" height="60">
+  <img src="/assets/images/Bosch_logo.png" alt="Company Logo" height="60">
+</div>
