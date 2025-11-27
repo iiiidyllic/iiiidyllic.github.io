@@ -67,13 +67,13 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 
 # 🌍 Visitor Map
 <!-- Pageviews Counter -->
-<script type="text/javascript"
+<script async type="text/javascript"
         src="https://mapmyvisitors.com/counter.js?d=PUCXUJ9M6q4ZWN_Z-IXMeP7TtfQWchclhG0uvvCDq9E&v=1">
 </script>
 
 <!-- Visitor Map (Centered) -->
 <div style="width:420px; margin:auto;">
-  <script type='text/javascript' id='mapmyvisitors'
+  <script async type='text/javascript' id='mapmyvisitors'
           src='https://mapmyvisitors.com/map.js?cl=080808&w=420&t=n&d=PUCXUJ9M6q4ZWN_Z-IXMeP7TtfQWchclhG0uvvCDq9E&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'>
   </script>
 </div>
