@@ -22,7 +22,7 @@ Hi there, I am **Zihao Liu** (Chinese name: 刘子豪), you can call me "Edward"
 My research interests center on building intelligent data analytical systems boosted by large models combined with cutting-edge learning algorithms. Specifically, I focus on:
 - **State space models** to build a hybrid architecture mixed with transformer-type and mamba-type model.
 - **Spatio-temporal modeling** to jointly model data distribution in spatial and temporal domain.
-- **Establishment of foundation models**' to explore the universal representations for time series data.
+- **Establishment of foundation models** to explore the universal representations for time series data.
 
 My research aims to explore efficient and universal data representative methods utilizing machine and deep learning as analytic tools.
 I am always open to collaborations. Please feel free to reach out to me at [my email](zihaoliu1@link.cuhk.edu.cn)!
