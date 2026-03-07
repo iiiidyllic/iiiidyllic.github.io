@@ -19,12 +19,12 @@ redirect_from:
 
 Hi there, I am **Zihao Liu** (Chinese name: 刘子豪), you can call me "Edward". I am currently a Ph.D. student at School of Artificial Intelligence, CUHK-Shenzhen under the supervision of Prof. Feng Yin. I previously received my B.Eng. degree at School of Mechanical Engineering, Tongji University (2021.09-2025.07).
 
-My research interests center on building intelligent data analytical systems boosted by large models combined with cutting-edge learning algorithms. Specifically, I focus on:
-- **State space models** to build a hybrid architecture mixed with transformer-type and mamba-type model.
-- **Spatio-temporal modeling** to jointly model data distribution in spatial and temporal domain.
-- **Establishment of foundation models** to explore the universal representations for time series data.
+My research focuses on developing next-generation intelligent analytical systems by exploring the intersection of **Spatio-Temporal Modeling**, **Continual Learning**, and **Representation Geometry**. Specifically, I investigate:
+- **Spatio-Temporal Dynamics:** Designing architectures that jointly capture multi-scale spatial correlations and long-range temporal dependencies.
+- **Continual Learning:** Developing robust mechanisms to overcome catastrophic forgetting, enabling models to adapt to shifting data distributions in real-time.
+- **Representation Geometry:** Exploring the intrinsic geometric structures and manifold properties of latent spaces to enhance the interpretability and generalization of deep representations.
 
-My research aims to explore efficient and universal data representative methods utilizing machine and deep learning as analytic tools.
+My research aims to build foundation models that are not only aware of complex multi-dimensional dependencies but also capable of evolving in non-stationary environments.
 I am always open to collaborations. Please feel free to reach out to me at [my email](zihaoliu1@link.cuhk.edu.cn)!
 
 # 🔥 News
