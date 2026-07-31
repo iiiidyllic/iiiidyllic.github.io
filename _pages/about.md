@@ -61,7 +61,9 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 - *2021.09 - 2025.07*, B.Eng. in Intelligent Manufacturing Engineering, Tongji University, Shanghai. 
 
 # 💼 Services
-- *2025.09 - Present*, Serve as a teaching assistant for [MAT1001, Calculus I](https://www.cuhk.edu.cn/en/course/8025).
+- *2026.09 - Present*, Serve as a teaching assistant for AIE1903, AI Exploration III.
+- *2026.08 - Present*, Serve as a resident tutor at [Eighth College](https://www.cuhk.edu.cn/zh-hans/page/14951).
+- *2025.09 - 2026.01*, Serve as a teaching assistant for [MAT1001, Calculus I](https://www.cuhk.edu.cn/en/course/8025).
 
 # 💻 Internships
 - *2024.08 - 2025.05*, Full-time strategic intern as a machine learning engineer in [Bosch Corporate Research Asia Pacific](https://www.bosch.com/research/about-bosch-research/research-locations/), Bosch (China) Investment Ltd., Shanghai.
