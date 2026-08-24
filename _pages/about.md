@@ -28,6 +28,7 @@ My research aims to build foundation models that are not only aware of complex m
 I am always open to collaborations. Please feel free to reach out to me at [my email](zihaoliu1@link.cuhk.edu.cn)!
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 Invited as a peer reviewer for [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)!
 - *2026.06*: &nbsp;🎉 Invited as a peer reviewer for [MLSP 2026](https://mlsp26.ieeesps.org/)!
 - *2025.11*: &nbsp;🎉 Invited as a peer reviewer for [ICASSP 2026](https://2026.ieeeicassp.org/)!
 - *2025.08*: &nbsp;🎉 Join the [BLSP Group](https://blsp-group.github.io/) and become a member of it!
