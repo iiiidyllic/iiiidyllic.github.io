@@ -61,7 +61,7 @@ Ao Wang, **Zihao Liu**, Juntao Wang, Feng Yin
 
 # 💼 Services
 - *2026.09 - Present*, Serve as a teaching assistant for [AIE1903, AI Exploration III](https://www.cuhk.edu.cn/en/course/18734).
-- *2026.08 - Present*, Serve as a resident tutor at [Eighth College](https://www.cuhk.edu.cn/zh-hans/page/14951).
+- *2026.08 - Present*, Serve as a resident tutor at [Eighth College](https://eighth.cuhk.edu.cn/).
 - *2025.09 - 2026.01*, Serve as a teaching assistant for [MAT1001, Calculus I](https://www.cuhk.edu.cn/en/course/17708).
 
 # 💻 Internships
