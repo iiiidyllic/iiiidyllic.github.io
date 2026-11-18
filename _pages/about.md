@@ -38,14 +38,14 @@ I am always open to collaborations. Please feel free to reach out to me at [my e
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/spatio_temporal_traffic.png' alt="Spatio-Temporal Traffic Prediction" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Mobile Computing</div><img src='images/spatio_temporal_traffic.png' alt="Spatio-Temporal Traffic Prediction" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Spatio-Temporal Traffic Prediction for Grid-Structured Wireless Network**
+**Period-Guided Graph Attention for Cell- and Grid-Level Wireless Traffic Forecasting**
 
 Ao Wang, **Zihao Liu**, Juntao Wang, Feng Yin
 
-- A distribution-aware unified spatio-temporal forecasting framework for grid-structured wireless networks, featuring dynamic periodic decomposition, graph-constrained attention, and uncertainty-aware probabilistic prediction.
+- Proposed a period-guided residual graph attention framework for both cell- and grid-level traffic forecasting, which strictly integrates periodic context extraction, adaptive graph construction, and residual probabilistic prediction.
 
 </div>
 </div>
@@ -65,7 +65,7 @@ Ao Wang, **Zihao Liu**, Juntao Wang, Feng Yin
 - *2025.09 - 2026.01*, Serve as a teaching assistant for [MAT1001, Calculus I](https://www.cuhk.edu.cn/en/course/17708).
 
 # 💻 Internships
-- *2024.08 - 2025.05*, Full-time strategic intern as a machine learning engineer in [Bosch Corporate Research Asia Pacific](https://www.bosch.com/research/about-bosch-research/research-locations/), Bosch (China) Investment Ltd., Shanghai.
+- *2024.08 - 2025.05*, Full-time strategic intern for AI research in [Bosch Corporate Research Asia Pacific](https://www.bosch.com/research/about-bosch-research/research-locations/), Bosch (China) Investment Ltd., Shanghai.
 
 # 🌍 Visitor Map
 <!-- Pageviews Counter -->
