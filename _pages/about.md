@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am **Zihao Liu** (Chinese name: 刘子豪), you can call me "Edward". I am currently a Ph.D. student at School of Artificial Intelligence, CUHK-Shenzhen under the supervision of Prof. Feng Yin. I previously received my B.Eng. degree at School of Mechanical Engineering, Tongji University (2021.09-2025.07).
+Hi there, I am **Zihao Liu** (Chinese name: 刘子豪). I am currently a Ph.D. student at School of Artificial Intelligence, CUHK-Shenzhen under the supervision of Prof. Feng Yin. I previously received my B.Eng. degree at School of Mechanical Engineering, Tongji University (2021.09-2025.07).
 
 My research focuses on developing next-generation intelligent analytical systems by exploring the intersection of **Spatio-Temporal Modeling**, **Continual Learning**, and **Representation Geometry**. Specifically, I investigate:
 - **Spatio-Temporal Dynamics:** Designing architectures that jointly capture multi-scale spatial correlations and long-range temporal dependencies.
