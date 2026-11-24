@@ -28,11 +28,13 @@ My research aims to build foundation models that are not only aware of complex m
 I am always open to collaborations. Please feel free to reach out to me at [my email](zihaoliu1@link.cuhk.edu.cn)!
 
 # 🔥 News
+<!--
 - *2026.08*: &nbsp;🎉 Invited as a peer reviewer for [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)!
 - *2026.06*: &nbsp;🎉 Invited as a peer reviewer for [MLSP 2026](https://mlsp26.ieeesps.org/)!
 - *2025.11*: &nbsp;🎉 Invited as a peer reviewer for [ICASSP 2026](https://2026.ieeeicassp.org/)!
+-->
 - *2025.08*: &nbsp;🎉 Join the [BLSP Group](https://blsp-group.github.io/) and become a member of it!
-- *2024.05*: &nbsp;🎉 Won the title of "Honarable Mention" in "Mathematical Contest in Modeling".
+- *2024.05*: &nbsp;🎉 Won the title of **Honarable Mention** in "Mathematical Contest in Modeling".
 - *2023.10*: &nbsp;🎉 Won the **1st** prize in the "Chinese Mechanical Engineering Innovation and Creativity Competition".
 - *2022.12*: &nbsp;🎉 Won the **2nd** prize in the "Shanghai College Student Engineering Practice and Innovation Ability Competition".
 
@@ -51,9 +53,9 @@ Ao Wang, **Zihao Liu**, Juntao Wang, Feng Yin
 </div>
 
 # 🎖️ Honors and Awards
-- *2022 & 2023 & 2024*: &nbsp;💰 Repeatedly awarded "Outstanding Student Scholarship" by Tongji University. 
+- *2022 & 2023 & 2024*: &nbsp;💰 Repeatedly awarded **Outstanding Student Scholarship** by Tongji University. 
 - *2023.10*: &nbsp;🏆 Won the **1st** prize in the "Chinese Mechanical Engineering Innovation and Creativity Competition".
-- *2023.09*: &nbsp;🏆 Received the "Integrated Competence" certificate awarded by TÜV Rheinland Industry 4.0 Laboratory Center-China.
+- *2023.09*: &nbsp;🏆 Received the **Integrated Competence** certificate awarded by TÜV Rheinland Industry 4.0 Laboratory Center-China.
 
 # 📖 Educations
 - *2025.08 - Present*, Ph.D. in Artificial Intelligence at Chinese University of Hong Kong, Shenzhen. 
